@@ -9,7 +9,7 @@
 
 **Our Team Members**:
 - [Julita G. Ariana](https://github.com/julitariana) 
-- Niko A. Hakam
+- [Niko A. Hakam](https://github.com/Radenaz)
 - [Nisrina Tsany S.](https://github.com/Ntsany)
 - [Ryan Dionenatan](https://github.com/orange-birds)
 - [Verren Monica](https://github.com/verrenmo)
