@@ -1,6 +1,6 @@
 # ExpedAnalysis :truck: :chart_with_upwards_trend: 
 **Navigate Reviews, Elevate Performance!**
-![expedAnalyysislogo](https://github.com/user-attachments/assets/f07b1f33-0f97-4990-bc6d-ae3209489512)
+![newlogo](https://github.com/user-attachments/assets/0f8b5830-f8dd-469a-9a79-f28fe5328317)
 
 ## Introduction :wave:
 **Hacktiv8 - Full Time Data Science**
