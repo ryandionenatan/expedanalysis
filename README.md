@@ -44,12 +44,16 @@ The dataset was obtained using web scraping from reviews on Google Maps for 38 w
 
 ## Deployment Link
 <p align="center">
-  <img width="100" alt="hf-logo" src="https://github.com/user-attachments/assets/da40d37b-af00-4fc0-b55a-e4eb3cf2a371"/>
+  <a href="https://huggingface.co/spaces/ryandio/expedanalytics">
+    <img width="100" alt="hf-logo" src="https://github.com/user-attachments/assets/da40d37b-af00-4fc0-b55a-e4eb3cf2a371"/>
+  </a>
 </p>
 
 ## Presentation Slides
 <p align="center">
-  <img width="90" alt="gslidez" src="https://github.com/user-attachments/assets/c5fedf3d-2208-4977-9018-5d16a54c345f"/>
+  <a href="https://docs.google.com/presentation/d/1MLdOurouPaF_Ne6lsrX0C2hQLRlJx9QoClSfQ3kToxc/edit?usp=sharing">
+    <img width="90" alt="gslidez" src="https://github.com/user-attachments/assets/c5fedf3d-2208-4977-9018-5d16a54c345f"/>
+  </a>
 </p>
 
 
