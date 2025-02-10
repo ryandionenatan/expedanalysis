@@ -13,7 +13,7 @@
 - [Julita G. Ariana](https://github.com/julitariana) as Data Scientist
 - [Niko A. Hakam](https://github.com/Radenaz) as Data Scientist
 - [Nisrina Tsany S.](https://github.com/Ntsany) as Data Analyst
-- [Ryan Dionenatan](https://github.com/orange-birds) as Data Engineer
+- [Ryan Dionenatan](https://github.com/ryandionenatan) as Data Engineer
 - [Verren Monica](https://github.com/verrenmo) as Data Analyst
 
 ## App Descriptions
